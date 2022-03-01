@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman to an East-India merchant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03995</idno>
+            <idno type="STC">Wing L1401</idno>
+            <idno type="STC">ESTC R224987</idno>
+            <idno type="EEBO-CITATION">51617820</idno>
+            <idno type="OCLC">ocm 51617820</idno>
+            <idno type="VID">175275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175275)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2726:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman to an East-India merchant</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by John Nutt, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>English Company Trading to the East-Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:175275:1" rendition="simple:additions"/>
+            <head>A LETTER from a Gentleman TO AN Eaſt-India Merchant.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am very ſenſible how much its your Concern, that the Coalition ſo much diſcours'd of between the Contending Parties in the <hi>Eaſt-India</hi> Trade ſhould take effect, and therefore cannot blame your ſolicitous Enquiry what Progreſs is made therein, and what probability there appears of its being accompliſh'd.</p>
+            <p>Now in Anſwer thereto, all that I can learn is, That a very honeſt Gentle<g ref="char:EOLhyphen"/>man hath applied himſelf to the Directors or Committees of both Companies, and ſhewn the Advantages which they will reap from an Union, and the cer<g ref="char:EOLhyphen"/>tain Ruine which will attend their Stock, by carrying on that Trade in a ſe<g ref="char:EOLhyphen"/>parate Intereſt; but neither his Arguments or Experience will, it ſeems, pre<g ref="char:EOLhyphen"/>vail with either of them, to make one ſtep towards it.</p>
+            <p>There's no doubt but various Conſtructions are made of their Conduct in this affair, tho' I can by no means agree with your Notion, That the preſent Ruling Directors of both Companies, have for their own private Ends and Advantage, baniſh'd all thoughts of an Accommodation, and endeavoured to render the thing impracticable.</p>
+            <p>I cannot entertain ſo mean an Opinion of Gentlemen, that have been cho<g ref="char:EOLhyphen"/>ſen into ſuch conſiderable Truſts, by the Suffrages of the Generality of thoſe Corporations, whoſe Intereſt may be thought a ſufficient Direction to their Nomination of ſuch as are of the beſt Reputation for Probity, Diligence and Ability.</p>
+            <p>It ſeems more likely to me, that the Reſentments which yet remain with the Members of the old Company, againſt the unwarrantable Methods con<g ref="char:EOLhyphen"/>trived by ſome Gentlemen to forward the late Act of Parliament for ſettling that Trade, and the hopes they have of ſome Relief in the approaching Seſſion of Parliament, on one ſide; and on the other ſide, the mean Opinion which ſome Leading Directors of the New Company have entertained of the affairs of the old Company; and that the Forts, Factories, Revenues and Priviledges, which they value themſelves ſo much upon, are of little benefit towards the carrying on the Trade; are the Reaſons that hitherto no Overtures have been made towards an Union, which in the Judgment of either Party would tend ſo greatly to the Benefit of the Proprietors, in the joint Stock of both Com<g ref="char:EOLhyphen"/>panies.</p>
+            <p>To Remove theſe Prejudices will be a difficult Task, however I will take the Liberty, to ſhew how unreaſonably they are grounded, and the ill Conſe<g ref="char:EOLhyphen"/>quences which attend them.</p>
+            <p>The Legiſlative Authority having Re-aſſumed their Right of preſcribing the Rules, Manner and Method for the future carrying on the Trade to the <hi>Eaſt-Indies;</hi> and your old Company having Subſcribed thereto, doth ſeem to im<g ref="char:EOLhyphen"/>ply
+<pb n="2" facs="tcp:175275:2"/>a Conſent, and therefore Renders all Complaints that may be made in Par<g ref="char:EOLhyphen"/>liament fruitleſs, if not frivolous.</p>
+            <p>And ſhould any Attempts be hereafter made to leſſen or take away the Be<g ref="char:EOLhyphen"/>nefits, Priviledges or Advantages of thoſe that were the Subſcribers to the Two Millions for the Service of the Government, in might indeed be juſtly com<g ref="char:EOLhyphen"/>plained of as a breach of that Faith and Credit that ought to be kept ſacredly inviolable, when warranted by the Sanction of an Act of Parliament.</p>
+            <p>Moreover, If it be conſidered how highly ſerviceable the Money raiſed this way hath been to the Government and whole Kingdom, it ought to quiet the Minds of thoſe, whoſe Intereſt have ſuffered thereby; eſpecially if they will remember that they were the firſt Promoters of a Loane to the Govern<g ref="char:EOLhyphen"/>ment, upon Condition of having themſelves Eſtabliſh'd by Act of Parliament, and by that means to have Monopolized the whole Trade to the <hi>Eaſt-Indies,</hi> to their own joint Stock.</p>
+            <p>I muſt confeſs, There is ſome Compaſſion owing to the new Adventurers in your old Company, who advanced that great Sum of 744000 <abbr>
+                  <hi>l</hi>
+               </abbr> as an addition to the Stock of that Society, upon the Encouragements were given them by his Majeſty's new Charter; ſince which time, by reaſon of the ſeve<g ref="char:EOLhyphen"/>reſt Loſſes by the War, great Taxes at home, and an Imbroil on their affairs abroad (by reaſon of the Pyracies committed on the Subjects of the <hi>Mogul</hi>) have been ſo far from reaping any Advantage thereby, that their ſaid Stock is, without any dividend, reduced to one half of its original Value.</p>
+            <p>The ſenſe of theſe Loſſes and Diſappointments, and the uneaſineſs they were under to ſee, that when a happy end was put to the War, they had yet worſe Enemies (I mean the Interlopers) to contend with, who by Corrupt<g ref="char:EOLhyphen"/>ing their Factors, and interfereing at their Markets abroad and at home, were like to render their future Trade unprofitable: And this ill proſpect, without doubt induced them to ſeek that Remedy that hath proved ſo fatal to them.</p>
+            <p>It was very obvious, in what miſerable Circumſtances the late Act for ſet<g ref="char:EOLhyphen"/>tling this Trade left the old Company, after the three Years expired, with reſpect to their affairs in <hi>India,</hi> if by their Subſcription for the Raiſing 315000 <abbr>
+                  <hi>l</hi>
+               </abbr> part of the Two Millions, they had not Purchaſed Freedom of Paſſing to their Forts and Factories, and of Trading ſo far as that Sum will extend yearly to the <hi>Eaſt Indies.</hi>
+            </p>
+            <p>But altho' it's true, that this Subſcription hath given them, it may be a full half of that Trade; or at leaſt the liberty of ſending out half the Stock that is neceſſary, or that can be well employed therein; yet if they will re<g ref="char:EOLhyphen"/>flect upon the miſchiefs, which a few Interlopers have done them heretofore, who went out with ſmall Stocks and great difficulty, it will certainly give them but a Melancholy Proſpect of the Benefit they can reap thereby, when they are to contend with a Corporation, that cannot want Protection abroad or Countenance at home, and it moreover Entituled to 5 <hi>per Cent.</hi> upon the groſs amount of all their Returns.</p>
+            <p>Now on the other ſide, I can appeal to no better Judge than your ſelf, who are no ſtranger to this Trade, to conſider the Judgment and Conduct of thoſe Gentlemen, who ſlight thoſe Advantagious Forts, Revenues, Facto<g ref="char:EOLhyphen"/>ries and Priviledges, which have been Raiſed, Settled, and Purchaſed by ſo much Time, Care, and Coſt; and which are the only Bulwork left to ſecure that beneficial Trade to this Nation.</p>
+            <p>Let them Examine the Policy of the <hi>Dutch,</hi> the Emulation of the <hi>French</hi> and <hi>Danes,</hi> the former Practiſe of the <hi>Portugueze,</hi> and they will find, that all t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe, in order to Carry on, Improve, and Secure this Trade, have made it their firſt Care to poſſeſs themſelves of good Settlements.</p>
+            <pb n="3" facs="tcp:175275:2"/>
+            <p>I do not intend by mentioning the Neceſſity there is of Forts, Facto<g ref="char:EOLhyphen"/>ries, and the Advantages of the Revenues and Priviledges enjoyed by the old Company, to Raiſe their Value; but to ſhew, that by the help of theſe they may be able to carry on their Trade to equal advantage, of what any other Society can ever pretend to do.</p>
+            <p>Tho' nothing appears more eaſily demonſtrable, than that this Trade thus divided and carryed in a ſeparate Intereſt muſt end in the Ruine of the Tra<g ref="char:EOLhyphen"/>ders, to prove which, many Inſtances and Arguments might be ſet down, as well as the Experience of paſt times, which would be but labour loſt, ſince it ſeems to be Univerſally conſented to by the adventurers in both the joint Stocks.</p>
+            <p>'Tis not paſt the Memory of the preſent Age, that the ſeveral Chambers of the <hi>Dutch Eaſt-India</hi> Company, were a Divided and Separate Intereſt in their Trade and Settlements in the <hi>Eaſt-Indies;</hi> and that there was the ſame Emulation and Contention between them (that is like to be between your old and new Company;) but the Experience of the Diſadvantages they had thereby, ſoon brought them to a Temper of Union; and from thence hath ſprung the Strength, Credit and Riches, which that Noble Society doth now poſſeſs both at Home and in the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>And if nothing but Experience with inſtruct thoſe angry Gentlemen of either Side, I doubt they will too late find, that to compleat the Sacrifice of their Reſentments, they have thrown in their own Fortunes for the Fuel.</p>
+            <p>But I am told, that the Gentlemen of the new Company are in hopes, that the Diviſions or Inability of the old Company, will in time force them to relinquiſh the Trade; and that the Embaſſy intended to the <hi>Mogul,</hi> will ſo Imbarras their Affairs, that they will be forced to leave ſome of thoſe Ad<g ref="char:EOLhyphen"/>vantagious Settlements which they are now Poſſeſt of.</p>
+            <p>Now there ſeems to be an evident Proof of the Ability, as well as good Will of the old Company, to puſh on their Trade, to as large an extent as they have done in former times: But putting the worſt Caſe, that they ſhould not find means before the Three Years expire, to be Reincorpo<g ref="char:EOLhyphen"/>rated; nor in the mean time to veſt Stock and Trade, in the ſame manner, and it may be to more advantage than have been done by their Courts of Committees, what ſhould hinder the diſpoſal of their Forts and Revenues to the beſt Purchaſers, and dividing to the Adventurers their proportion in the 315000 <abbr>
+                  <hi>l</hi>
+               </abbr> Subſcribed, with the Benefits and Advantages attending it; who by Licenſing thereof to ſuch as are verſed in the Myſtery of that Trade, might ſet up Interlopers upon the new Company, by the Priviledge of an Act of Parliament.</p>
+            <p>It will be worth the Conſideration of the Members of the new Compa<g ref="char:EOLhyphen"/>ny, what will be the Conſequences hereof; and if thoſe Gentlemen were in good earneſt, who when they Subſcribed to Trade in a Joint Stock, ſaid they had ſwallowed a bitter Pill, it may inſtruct their Brethren to provide in time Lenatives, for that churliſh Purge that was prepared for them, tho' juſt<g ref="char:EOLhyphen"/>ly Cram'd down the Throats of the Founders.</p>
+            <p>Now Sir, I will preſume, with intire ſubmiſſion to your Conſideration and better Judgment, to ſet down my thoughts in what manner this hoped for Union between theſe two great Bodies may be beſt accompliſh'd.</p>
+            <list>
+               <item>1. That the General Courts of both Corporations declare their Diſpoſi<g ref="char:EOLhyphen"/>tion to Treat upon that Subject.</item>
+               <pb n="4" facs="tcp:175275:3"/>
+               <item>2. That the ſaid General Courts give Power to ſuch Number as they think fit, to Treat upon the Preliminaries neceſſary thereto.</item>
+               <item>3. That upon Report made, by thoſe Authorized, to the General Courts, of their having agreed the Preliminaries, they may have full Power and Authority given them to Agree.</item>
+            </list>
+            <list>
+               <item>1. <hi>The Value of the Stock that ſhall be brought in for Trade.</hi>
+               </item>
+               <item>2. <hi>The Proportion which each Company ſhall ſhare therein.</hi>
+               </item>
+               <item>3. <hi>The value of the old Companies dead Stock, conſiſting of Iſlands, Forts, Caſtles, Factories, Revenues, Priviledges,</hi> &amp;c.</item>
+               <item>4. <hi>The Time when, the Profit or Loſs, ariſing by the Revenues, or incurring by the charge of the Forts, Factories,</hi> &amp;c. <hi>ſhall be carried to the account of the General joint ſtock of the ſaid Companies to be united.</hi>
+               </item>
+               <item>5. <hi>In what time and Proportion of the Sum agreed on to be Raiſed for Trade ſhall be brought in, and what allowances to be made in caſe of failure.</hi>
+               </item>
+            </list>
+            <p>Theſe and ſome other neceſſary points being agreed and ratified by the General Courts of the ſaid Companies, it will remain, that at the Requeſt of the ſaid General Courts, a Bill may be brought into the Honourable Houſe of Commons, to Confirm and render effectual the Union thereby intend<g ref="char:EOLhyphen"/>ed; which once happily accompliſh'd, will in my poor Opinion, tend to the Honour and Advantage of this Kingdom, the ſecurity of that important Trade, and the benefit of all that are concerned therein, and that it may have this happy Iſſue, is the hearty deſire of,</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+            <postscript>
+               <p>POSTSCRIPT.</p>
+               <p>I Have forgot in the foregoing to obſerve to your, That in Caſe the intended Embaſſy to the <hi>Mogul</hi> ſhould have the deſired Effect, of thoſe who have Preſs'd ſo hard for it, upon the Perſons or Eſtates of the old Company, it will be thought very unlike to that Impartial Care and Juſtice which his preſent Majeſty <hi>(whom God pre<g ref="char:EOLhyphen"/>ſerve)</hi> hath hitherto Adminiſtred to all his Good People of this Kingdom.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed, and Sold by <hi>John Nutt,</hi> near <hi>Stationers-Hall.</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
